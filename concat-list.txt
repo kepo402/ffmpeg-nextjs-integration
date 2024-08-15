@@ -1,0 +1,2 @@
+file '../../../MOJISO~1/AppData/Local/Temp/ZyFBIuf-G0yp0K38LnYM4z2B.mp4'
+file 'temp-image-video.mp4'
